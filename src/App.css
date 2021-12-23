@@ -1,0 +1,45 @@
+
+/* * {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: 'Poppins', sans-serif;
+}
+
+nav {
+  height: 105px;
+  display: flex;
+  padding: 20px 36px;
+  box-shadow: 0px 2.98256px 7.4564px rgba(0, 0, 0, 0.1);
+}
+
+.main {
+  padding: 1.5em;
+}
+
+h1 {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+button {
+  background-color: green; 
+  color: white; 
+  border-radius: 3px;
+  padding: 8px 16px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+
+}
+
+button:hover {
+  background-color: darkgreen;
+  color: white;
+}
+ */
