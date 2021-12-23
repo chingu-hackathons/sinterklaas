@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Chingu Holiday Hackathon 2021 - Santa's Delivery Dashboard
 
 Contents
@@ -153,6 +152,3 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 =======
-# template
-Chingu Holiday Hackathon 2021 - Team ?
->>>>>>> 2b5b2d047e2c05fac6f8f7cb0588df46e0f14ad6
